@@ -1,7 +1,5 @@
 # Diamonds - Introduction
 
-![/assets/qrcode.png](/assets/qrcode.png)
-
 ## The parts of a diamond
 
 ### Diamond
